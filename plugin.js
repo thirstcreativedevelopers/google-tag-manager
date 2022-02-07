@@ -30,7 +30,7 @@ class GTM {
             routeName: to.name,
             pageTitle: (typeof document !== 'undefined' && document.title) || '',
           })
-      }, 0)
+      }, 350)
     })
   }
 
