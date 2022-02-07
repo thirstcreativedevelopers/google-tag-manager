@@ -1,17 +1,17 @@
 # Google Tag Manager
-[![npm](https://img.shields.io/npm/dt/@nuxtjs/google-tag-manager.svg?style=flat-square)](https://www.npmjs.com/package/@nuxtjs/google-tag-manager)
-[![npm (scoped with tag)](https://img.shields.io/npm/v/@nuxtjs/google-tag-manager/latest.svg?style=flat-square)](https://www.npmjs.com/package/@nuxtjs/google-tag-manager)
+[![npm](https://img.shields.io/npm/dt/@thirstcreative/google-tag-manager.svg?style=flat-square)](https://www.npmjs.com/package/@thirstcreative/google-tag-manager)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/@thirstcreative/google-tag-manager/latest.svg?style=flat-square)](https://www.npmjs.com/package/@thirstcreative/google-tag-manager)
 
 > Add Google Tag Manager (GTM) to your nuxt.js application.
 This plugins automatically sends first page and route change events to GTM.
 
 
 ## Setup
-- Add `@nuxtjs/google-tag-manager` dependency using yarn or npm to your project
-- Add `@nuxtjs/google-tag-manager` to `modules` section of `nuxt.config.js`
+- Add `@thirstcreative/google-tag-manager` dependency using yarn or npm to your project
+- Add `@thirstcreative/google-tag-manager` to `modules` section of `nuxt.config.js`
 ```js
   modules: [
-   ['@nuxtjs/google-tag-manager', { id: 'GTM-XXXXXXX' }],
+   ['@thirstcreative/google-tag-manager', { id: 'GTM-XXXXXXX' }],
   ]
 ```
 
