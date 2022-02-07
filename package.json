@@ -1,0 +1,11 @@
+{
+  "name": "@thirstcreative/google-tag-manager",
+  "version": "2.3.3",
+  "license": "MIT",
+  "homepage": "https://github.com/nuxt-community/modules/tree/master/packages/google-tag-manager",
+  "repository": "nuxt-community/modules",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js"
+}
